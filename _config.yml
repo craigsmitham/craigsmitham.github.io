@@ -1,5 +1,5 @@
 url: "https://www.craigsmitham.com"
-baseurl: ""
+# baseurl: ""
 title: "Craig Smitham"
 
 markdown: kramdown
