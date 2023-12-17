@@ -1,5 +1,5 @@
 ---
-title: X 
+hideTitle: true
 layout: default 
 ---
 
