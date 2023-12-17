@@ -1,3 +1,8 @@
 url: "https://www.craigsmitham.com"
 baseurl: ""
 title: "Craig Smitham"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
